@@ -4,7 +4,7 @@ out/
 !**/src/test/**/out/
 .kotlin
 Task_3.iml
-.idea
+.idea/
 ### Eclipse ###
 .apt_generated
 .classpath
